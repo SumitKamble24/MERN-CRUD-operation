@@ -1,0 +1,5 @@
+export const CONSTANT = {
+  ADD_TO_CART: "ADD_TO_CART",
+  GET_USER: "GET_USER",
+  SET_USER_LIST: "SET_USER_LIST",
+};
